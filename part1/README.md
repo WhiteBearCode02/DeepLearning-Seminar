@@ -16,4 +16,4 @@
 [Image of AI vs Machine Learning vs Deep Learning hierarchy]
 
 ## 📜 관련 자료
-- [발표 자료 원본(PPT)](../Easy!딥러닝1.1~1.2발표자료_이현준.pptx)
+- [발표 자료 원본(PPT)](Easy!딥러닝1.1~1.2발표자료_이현준.pdf)
